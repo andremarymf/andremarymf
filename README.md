@@ -23,9 +23,9 @@
 
 | Proyecto | Herramientas | Descripción | Link |
 |---------|--------------|-------------|------|
-| Análisis de taxis en Chicago | Python, Pandas, Matplotlib, Hypothesis Testing | Exploración y visualización de datos para detectar patrones de uso, zonas clave y tendencias horarias | 🔗 [Repositorio](https://github.com/andremarymf/proyecto-taxis-chicago) |
-| Visualización de accidentes de tránsito | Tableau, Excel | Tableros interactivos con KPIs clave por tipo de incidente y localización | 🔗 [Tableau Public](https://public.tableau.com/app/profile/andrea.montoya) |
-| Análisis de portafolio financiero | Power BI, SQL | Automatización de reportes financieros, análisis de márgenes y visualización de rentabilidad LATAM | 🔗 [Repositorio](https://github.com/andremarymf) |
+| Análisis de taxis en Chicago | Python, Pandas, Matplotlib, Hypothesis Testing | Exploración y visualización de datos para detectar patrones de uso, zonas clave y tendencias horarias | 🔗  |
+| Visualización de accidentes de tránsito | Tableau, Excel | Tableros interactivos con KPIs clave por tipo de incidente y localización | 🔗 [Tableau Public] |
+| Análisis de portafolio financiero | Power BI, SQL | Automatización de reportes financieros, análisis de márgenes y visualización de rentabilidad LATAM | 🔗 [Repositorio] |
 
 ---
 
